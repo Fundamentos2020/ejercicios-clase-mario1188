@@ -1,0 +1,28 @@
+p{
+    color: blue;
+}
+
+#parrafo2{
+    background-color: cadetblue;
+}
+
+.clase1{
+    background-color: chartreuse;
+}
+
+input:focus{
+    box-shadow: gray;
+}
+
+button:hover{
+    background-color: green;
+}
+
+p::first-letter{
+    font-size: 40px;
+}
+
+p::selection{
+    background-color: black;
+    color: cornsilk;
+}
