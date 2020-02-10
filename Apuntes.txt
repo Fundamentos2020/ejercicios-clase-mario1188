@@ -1,0 +1,49 @@
+>10-02-2020
+------------------------------ Texto
+
+-Color (color)
+nombre: "red"
+hexadecimal: "#ff0000"
+rgb: "rgb(255,0,0)"
+
+-Alineacion (text-align)
+center
+left
+right
+justify
+
+-Decoracion (text-decoration)
+none
+overline
+line-through
+underline
+
+-Transformacion (text-transformation)
+uppercase
+capitalize
+lowercase
+
+-Otros
+sangria => text-indent: 20pi
+espaciado => letter-spacing: 3px
+          => line-height: 1.5
+sombre => text-shadow: 3px 2px red 
+
+---------------------------------------------Tipografía
+
+-Fuentes (font-family)
+serif
+sans-serif
+monospace
+
+ej:
+font-family: Arial, "Comic Sans", sans-serif;
+
+-Estilo (font-style)
+normal
+italic (<i>)
+
+-Tamaño (font-size)
+Pixeles(px)
+Em (em) => 16px = 1 em
+
