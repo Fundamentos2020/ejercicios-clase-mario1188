@@ -1,5 +1,6 @@
 >10-02-2020
------------------------------- Texto
+
+-> Texto
 
 -Color (color)
 nombre: "red"
@@ -29,9 +30,7 @@ espaciado => letter-spacing: 3px
           => line-height: 1.5
 sombre => text-shadow: 3px 2px red 
 
----------------------------------------------Tipografía
-
--Fuentes (font-family)
+->Fuentes (font-family)
 serif
 sans-serif
 monospace
@@ -47,3 +46,27 @@ italic (<i>)
 Pixeles(px)
 Em (em) => 16px = 1 em
 
+// -----------------------------------------------------------------
+ 11 - 02 - 2020
+
+importacion de fuentes (fonts.google.com)
+(deben ir hasta arriba del documento css)
+
+@font-face{
+    font-family: nombre;
+    src: url("archivo.ext");
+}
+
+-> Modelo de caja
+
+      -------------------------------
+      |            margin           |
+      |  -------------------------  |
+      |  |         border        |  |
+      |  |     ----------------  |  |
+      |  |   |    padding     |  |  |
+      |  |   |    ---------   |  |  |
+      |  |   |   | content |  |  |  |
+      |  |   |    ---------   |  |  | 
+      |  |    -----------------  |  |
+      -------------------------------
