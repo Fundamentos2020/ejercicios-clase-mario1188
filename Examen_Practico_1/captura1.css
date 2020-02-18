@@ -1,0 +1,44 @@
+.div1{
+    height: 100px;
+    width: 100%;
+    border-color: red;
+    border-style: solid;
+    background-color: blue;
+}
+
+.imagen1{
+    border-color: white;
+    height: 100%;
+    width: 100px;
+    border-style: solid;
+}
+
+.div2{
+    height: 50px;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-radius: 1px;
+    background-color: yellow;
+}
+
+.titulo{
+    margin-left: 30%;
+}
+
+.imagen2{
+    border-color: white;
+    height: 100%;
+    width: 100px;
+    border-style: solid;
+    position: relative;
+    right: 0px;
+}
+
+.menu1{
+    position: absolute;
+}
+
+.menu2{
+    margin-left: 100px;
+}

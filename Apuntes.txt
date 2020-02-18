@@ -70,3 +70,40 @@ importacion de fuentes (fonts.google.com)
       |  |   |    ---------   |  |  | 
       |  |    -----------------  |  |
       -------------------------------
+
+// --------------------------------------------------------------------------------------
+14-02-2020
+
+Display 
+
+>block
+Comienzan en una nueva linea 
+<div>
+<h1> - <h6>
+<p>
+
+>none 
+oculta un elemento sin eliminarlo
+
+>inline
+continuan en la misma linea 
+<span>
+<a>
+<img>
+
+>hidden
+oculta un elemento dejando el espacion en ocupa
+
+Posicionamiento
+
+>relative
+se posiciona de acuerdo
+
+-absolute
+se posiciona de acuerdo
+
+-fixed
+se posiciona de acuerdo 
+
+-sticky
+se posiciona de acuerdo

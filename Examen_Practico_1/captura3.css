@@ -1,0 +1,17 @@
+.div2{
+    height: 50px;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    border-radius: 1px;
+    background-color: yellow;
+}
+
+
+.menu1{
+    position: absolute;
+}
+
+.menu2{
+    margin-left: 100px;
+}

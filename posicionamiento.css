@@ -1,0 +1,26 @@
+*{
+    margin: 5px, red;
+}
+
+#padre{
+    width: 75%;
+    height: 200px;
+}
+
+#hijo{
+    width: 50%;
+    position: absolute;
+    bottom: 20px;
+}
+
+#div_fixed{
+    width: 200px;
+    position: fixed;
+    right: 0px;
+    top: 50%;
+}
+
+ul{
+    position: sticky;
+    top: 0px;
+}
